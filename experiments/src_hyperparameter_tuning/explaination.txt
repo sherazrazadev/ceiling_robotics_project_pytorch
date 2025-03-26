@@ -1,0 +1,11 @@
+In this phase, I focused on hyperparameter tuning to optimize the model's performance. I adjusted various hyperparameters within the code to observe their impact on the model's effectiveness. Specifically, I modified the following parameters:
+    config_defaults = {
+        "feedback_type": args.feedback_type,
+        "task": args.task,
+        "proprio_dim": 8,
+        "action_dim": 7,
+        "visual_embedding_dim": 224,
+        "learning_rate": 3e-7,
+        "weight_decay": 3e-4,
+        "batch_size": 2
+    }

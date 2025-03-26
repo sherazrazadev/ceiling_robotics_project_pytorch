@@ -1,0 +1,1 @@
+In this phase, I experimented with various model architectures to enhance the performance. I tested different configurations, incorporating layers such as batch normalization and max pooling, and adjusted the architecture by increasing or decreasing the number of layers. Additionally, I varied the input image size to assess its impact on the model’s effectiveness.
